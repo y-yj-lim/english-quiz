@@ -18,7 +18,7 @@ const words = [
     { word: "Population", meaning: "인구", example: "The population of the city is growing rapidly." },
     { word: "Shortage", meaning: "부족", example: "There is a shortage of clean water in the village." },
     { word: "Normal", meaning: "정상의", example: "Everything seems normal after the repair." },
-    { word: "Bitter", meaning: "쓴", example: "This medicine tastes very bitter." },
+            { word: "Bitter", meaning: "쓴", example: "This medicine tastes very bitter." },
     { word: "Fade", meaning: "흐려지다", example: "The colors of the painting slowly faded over time." },
     { word: "Grab", meaning: "잡다", example: "He grabbed my hand to stop me from falling." },
     { word: "Firmly", meaning: "굳게", example: "She held his hand firmly and didn't let go." },
